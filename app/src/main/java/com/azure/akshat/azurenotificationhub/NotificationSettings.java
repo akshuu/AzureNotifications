@@ -6,8 +6,8 @@ package com.azure.akshat.azurenotificationhub;
 
 public class NotificationSettings {
 
-    public static String SenderId = "813062406849";
-    public static String HubName = "aksNotificationHub";
-    public static String HubListenConnectionString = "Endpoint=sb://aksnhub.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=i/wndGiPyJTgSF+s6t3VUBhu24hHr1Walkt51Yirr6o=";
+    public static String SenderId = "<Change>";
+    public static String HubName = "<CHANGE>";
+    public static String HubListenConnectionString = "<CHANGE>";
 
 }
